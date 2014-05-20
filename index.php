@@ -1,7 +1,7 @@
 <?php
 
 echo("ja");
-echo("nein5");
+echo("nein6");
 
 
 ?>
